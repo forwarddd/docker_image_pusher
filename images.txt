@@ -10,4 +10,5 @@
 #manticoresearch/manticore:13.13.0
 #kibana:8.19.5
 #kibana:7.17.0
-kibana:7.6.0
+#kibana:7.6.0
+mcp/grafana
